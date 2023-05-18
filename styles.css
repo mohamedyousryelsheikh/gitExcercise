@@ -1,6 +1,9 @@
 body{
     background-color: blue;
 }
+html{
+    font: 100px;
+}
 
 
 span{
